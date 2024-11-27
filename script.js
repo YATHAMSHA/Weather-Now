@@ -1,4 +1,4 @@
-const API_KEY = "8ca56897f4720b19cfa40f4857f25244";
+const API_KEY = "your_api_key";
 
 document.getElementById("search-btn").addEventListener("click", () => {
   const city = document.getElementById("city-input").value.trim();
